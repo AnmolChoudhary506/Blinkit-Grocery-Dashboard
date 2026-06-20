@@ -76,35 +76,44 @@ Average revenue generated per transaction/item.
 🧮 Key DAX Measures
 
 🔹 Total Sales
-Total Sales = SUM('BlinkIT Data'[Sales])
+* Total Sales = SUM('BlinkIT Data'[Sales])
+
 🔹 Number of Items
-Number of Items = COUNT('BlinkIT Data'[Item Identifier])
+* Number of Items = COUNT('BlinkIT Data'[Item Identifier])
+
 🔹 Average Sales
-Average Sales = AVERAGE('BlinkIT Data'[Sales])
+* Average Sales = AVERAGE('BlinkIT Data'[Sales])
+
 🔹 Average Rating
-Average Rating = AVERAGE('BlinkIT Data'[Rating])
+* Average Rating = AVERAGE('BlinkIT Data'[Rating])
+
 
 📈 Dashboard Insights
 
 🔹 Sales by Fat Content
-Regular Fat products generate higher sales compared to Low Fat products.
-Customer demand is concentrated toward regular grocery products.
+* Regular Fat products generate higher sales compared to Low Fat products.
+* Customer demand is concentrated toward regular grocery products.
+
 🔹 Sales by Item Type
-Fruits & Vegetables contribute significantly to total revenue.
-Snack Foods and Household products are among the top-selling categories.
-Certain categories show lower demand and may require promotional strategies.
+* Fruits & Vegetables contribute significantly to total revenue.
+* Snack Foods and Household products are among the top-selling categories.
+* Certain categories show lower demand and may require promotional strategies.
+
 🔹 Outlet Performance Analysis
-Supermarket-type outlets contribute the largest share of sales.
-Different outlet formats demonstrate varying revenue potential.
+* Supermarket-type outlets contribute the largest share of sales.
+* Different outlet formats demonstrate varying revenue potential.
+
 🔹 Outlet Size Analysis
-Medium-sized outlets generate a major portion of total revenue.
-Outlet size has a noticeable impact on sales performance.
+* Medium-sized outlets generate a major portion of total revenue.
+* Outlet size has a noticeable impact on sales performance.
+
 🔹 Outlet Location Analysis
-Tier-wise outlet analysis reveals differences in consumer purchasing behavior.
-Specific location categories contribute more significantly to overall sales.
+* Tier-wise outlet analysis reveals differences in consumer purchasing behavior.
+* Specific location categories contribute more significantly to overall sales.
+
 🔹 Customer Rating Analysis
-Overall ratings indicate positive customer satisfaction.
-High-rated product categories can be leveraged for future growth.
+* Overall ratings indicate positive customer satisfaction.
+* High-rated product categories can be leveraged for future growth.
 
 ⭐ Project Highlights
 
@@ -141,6 +150,7 @@ High-rated product categories can be leveraged for future growth.
 * Data Analyst Portfolio Project
 
 📸 Dashboard Preview
+
 🔹 Main Dashboard
 
 (Add Screenshot Link Here)
