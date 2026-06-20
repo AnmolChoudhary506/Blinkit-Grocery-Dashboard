@@ -75,16 +75,16 @@ Average revenue generated per transaction/item.
 
 🧮 Key DAX Measures
 
-🔹 Total Sales
+ Total Sales
 * Total Sales = SUM('BlinkIT Data'[Sales])
 
-🔹 Number of Items
+ Number of Items
 * Number of Items = COUNT('BlinkIT Data'[Item Identifier])
 
-🔹 Average Sales
+ Average Sales
 * Average Sales = AVERAGE('BlinkIT Data'[Sales])
 
-🔹 Average Rating
+ Average Rating
 * Average Rating = AVERAGE('BlinkIT Data'[Rating])
 
 
