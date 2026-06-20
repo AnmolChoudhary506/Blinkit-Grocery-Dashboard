@@ -153,4 +153,4 @@ Average revenue generated per transaction/item.
 
 🔹 Main Dashboard
 
-(Add Screenshot Link Here)
+https://github.com/AnmolChoudhary506/BlinkIT-Grocery-Sales-Analytics-Dashboard/blob/main/Blinkit%20Grocery%20Dashboard%20Images/Total%20Sales%20blinkit%20dashboard.png
